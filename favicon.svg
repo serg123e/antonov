@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- крафт-картонка -->
+  <rect x="3" y="3" width="58" height="58" rx="8" fill="#c9a06a"/>
+  <rect x="3" y="3" width="58" height="58" rx="8" fill="none" stroke="#2b2622" stroke-width="2" stroke-opacity="0.25"/>
+  <!-- красный скотч в углу -->
+  <rect x="-6" y="8" width="34" height="11" rx="1" fill="#d9483b" fill-opacity="0.9" transform="rotate(-28 11 13)"/>
+  <!-- чернильное «М» -->
+  <text x="32" y="46" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="40" font-weight="700" fill="#2b2622">М</text>
+</svg>

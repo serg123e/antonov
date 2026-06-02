@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /shell/
+
+Sitemap: https://maxim.d.123automate.it/sitemap.xml
